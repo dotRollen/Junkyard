@@ -1,0 +1,21 @@
+#Requirements for Kitsu application project
+
+# Django (2.0 long-term support release)
+django==2.0.2
+
+# Third-part app dependencies
+psycopg2-binary==2.7.4
+django-materialize==1.0.1a2
+celery==4.1.0
+django-timezone-field==2.1
+
+#Production dependencies
+tornado==4.5.1
+uwsgi==2.0.17
+circus==0.14.0
+
+#Test dependencies
+cookiecutter>=1.4.0
+coverage==4.5.1
+mock==2.0.0
+model-mommy==1.5.1

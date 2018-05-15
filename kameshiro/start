@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Waiting for Postgresql to be available..."
+while ! nc -z ${POSTGRES_HOST:-db} ${POSTGRES_PORT:-5432}; do
+  sleep 1 
+done
+
+# Migrate data models to database
+echo Migrating data models to database
+python manage.py makemigrations
+python manage.py migrate
+
+# Start Gunicorn processes
+/usr/local/bin/circusd circus.ini

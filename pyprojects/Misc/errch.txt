@@ -1,0 +1,3 @@
+pyuic4 -o OutFile_ui.py InFile.ui
+
+		print(repr(chkin_ndata))

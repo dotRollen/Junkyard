@@ -1,0 +1,1242 @@
+labn18: # dmidecode 3.0
+labn18: Scanning /dev/mem for entry point.
+labn18: SMBIOS 3.0 present.
+labn18: 87 structures occupying 4491 bytes.
+labn18: Table at 0x78A01000.
+labn18: 
+labn18: Handle 0x0000, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L1-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 1
+labn18: 	Operational Mode: Write Back
+labn18: 	Location: Internal
+labn18: 	Installed Size: 64 kB
+labn18: 	Maximum Size: 64 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Instruction
+labn18: 	Associativity: 8-way Set-associative
+labn18: 
+labn18: Handle 0x0001, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L2-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 2
+labn18: 	Operational Mode: Varies With Memory Address
+labn18: 	Location: Internal
+labn18: 	Installed Size: 256 kB
+labn18: 	Maximum Size: 256 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Unified
+labn18: 	Associativity: 8-way Set-associative
+labn18: 
+labn18: Handle 0x0002, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L3-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 3
+labn18: 	Operational Mode: Varies With Memory Address
+labn18: 	Location: Internal
+labn18: 	Installed Size: 40960 kB
+labn18: 	Maximum Size: 40960 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Unified
+labn18: 	Associativity: Fully Associative
+labn18: 
+labn18: Handle 0x0003, DMI type 4, 48 bytes
+labn18: Processor Information
+labn18: 	Socket Designation: Socket 1
+labn18: 	Type: Central Processor
+labn18: 	Family: Xeon
+labn18: 	Manufacturer: Intel(R) Corporation
+labn18: 	ID: F1 06 04 00 FF FB EB BF
+labn18: 	Signature: Type 0, Family 6, Model 79, Stepping 1
+labn18: 	Flags:
+labn18: 		FPU (Floating-point unit on-chip)
+labn18: 		VME (Virtual mode extension)
+labn18: 		DE (Debugging extension)
+labn18: 		PSE (Page size extension)
+labn18: 		TSC (Time stamp counter)
+labn18: 		MSR (Model specific registers)
+labn18: 		PAE (Physical address extension)
+labn18: 		MCE (Machine check exception)
+labn18: 		CX8 (CMPXCHG8 instruction supported)
+labn18: 		APIC (On-chip APIC hardware supported)
+labn18: 		SEP (Fast system call)
+labn18: 		MTRR (Memory type range registers)
+labn18: 		PGE (Page global enable)
+labn18: 		MCA (Machine check architecture)
+labn18: 		CMOV (Conditional move instruction supported)
+labn18: 		PAT (Page attribute table)
+labn18: 		PSE-36 (36-bit page size extension)
+labn18: 		CLFSH (CLFLUSH instruction supported)
+labn18: 		DS (Debug store)
+labn18: 		ACPI (ACPI supported)
+labn18: 		MMX (MMX technology supported)
+labn18: 		FXSR (FXSAVE and FXSTOR instructions supported)
+labn18: 		SSE (Streaming SIMD extensions)
+labn18: 		SSE2 (Streaming SIMD extensions 2)
+labn18: 		SS (Self-snoop)
+labn18: 		HTT (Multi-threading)
+labn18: 		TM (Thermal monitor supported)
+labn18: 		PBE (Pending break enabled)
+labn18: 	Version: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+labn18: 	Voltage: 1.8 V
+labn18: 	External Clock: 100 MHz
+labn18: 	Max Speed: 4000 MHz
+labn18: 	Current Speed: 2600 MHz
+labn18: 	Status: Populated, Enabled
+labn18: 	Upgrade: Socket LGA2011-3
+labn18: 	L1 Cache Handle: 0x0000
+labn18: 	L2 Cache Handle: 0x0001
+labn18: 	L3 Cache Handle: 0x0002
+labn18: 	Serial Number: Not Specified
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Not Specified
+labn18: 	Core Count: 16
+labn18: 	Core Enabled: 16
+labn18: 	Thread Count: 32
+labn18: 	Characteristics:
+labn18: 		64-bit capable
+labn18: 		Multi-Core
+labn18: 		Hardware Thread
+labn18: 		Execute Protection
+labn18: 		Enhanced Virtualization
+labn18: 		Power/Performance Control
+labn18: 
+labn18: Handle 0x0004, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L1-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 1
+labn18: 	Operational Mode: Write Back
+labn18: 	Location: Internal
+labn18: 	Installed Size: 64 kB
+labn18: 	Maximum Size: 64 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Instruction
+labn18: 	Associativity: 8-way Set-associative
+labn18: 
+labn18: Handle 0x0005, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L2-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 2
+labn18: 	Operational Mode: Varies With Memory Address
+labn18: 	Location: Internal
+labn18: 	Installed Size: 256 kB
+labn18: 	Maximum Size: 256 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Unified
+labn18: 	Associativity: 8-way Set-associative
+labn18: 
+labn18: Handle 0x0006, DMI type 7, 19 bytes
+labn18: Cache Information
+labn18: 	Socket Designation: L3-Cache
+labn18: 	Configuration: Enabled, Not Socketed, Level 3
+labn18: 	Operational Mode: Varies With Memory Address
+labn18: 	Location: Internal
+labn18: 	Installed Size: 40960 kB
+labn18: 	Maximum Size: 40960 kB
+labn18: 	Supported SRAM Types:
+labn18: 		Synchronous
+labn18: 	Installed SRAM Type: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Error Correction Type: Single-bit ECC
+labn18: 	System Type: Unified
+labn18: 	Associativity: Fully Associative
+labn18: 
+labn18: Handle 0x0007, DMI type 4, 48 bytes
+labn18: Processor Information
+labn18: 	Socket Designation: Socket 2
+labn18: 	Type: Central Processor
+labn18: 	Family: Xeon
+labn18: 	Manufacturer: Intel(R) Corporation
+labn18: 	ID: F1 06 04 00 FF FB EB BF
+labn18: 	Signature: Type 0, Family 6, Model 79, Stepping 1
+labn18: 	Flags:
+labn18: 		FPU (Floating-point unit on-chip)
+labn18: 		VME (Virtual mode extension)
+labn18: 		DE (Debugging extension)
+labn18: 		PSE (Page size extension)
+labn18: 		TSC (Time stamp counter)
+labn18: 		MSR (Model specific registers)
+labn18: 		PAE (Physical address extension)
+labn18: 		MCE (Machine check exception)
+labn18: 		CX8 (CMPXCHG8 instruction supported)
+labn18: 		APIC (On-chip APIC hardware supported)
+labn18: 		SEP (Fast system call)
+labn18: 		MTRR (Memory type range registers)
+labn18: 		PGE (Page global enable)
+labn18: 		MCA (Machine check architecture)
+labn18: 		CMOV (Conditional move instruction supported)
+labn18: 		PAT (Page attribute table)
+labn18: 		PSE-36 (36-bit page size extension)
+labn18: 		CLFSH (CLFLUSH instruction supported)
+labn18: 		DS (Debug store)
+labn18: 		ACPI (ACPI supported)
+labn18: 		MMX (MMX technology supported)
+labn18: 		FXSR (FXSAVE and FXSTOR instructions supported)
+labn18: 		SSE (Streaming SIMD extensions)
+labn18: 		SSE2 (Streaming SIMD extensions 2)
+labn18: 		SS (Self-snoop)
+labn18: 		HTT (Multi-threading)
+labn18: 		TM (Thermal monitor supported)
+labn18: 		PBE (Pending break enabled)
+labn18: 	Version: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz
+labn18: 	Voltage: 1.8 V
+labn18: 	External Clock: 100 MHz
+labn18: 	Max Speed: 4000 MHz
+labn18: 	Current Speed: 2600 MHz
+labn18: 	Status: Populated, Enabled
+labn18: 	Upgrade: Socket LGA2011-3
+labn18: 	L1 Cache Handle: 0x0004
+labn18: 	L2 Cache Handle: 0x0005
+labn18: 	L3 Cache Handle: 0x0006
+labn18: 	Serial Number: Not Specified
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Not Specified
+labn18: 	Core Count: 16
+labn18: 	Core Enabled: 16
+labn18: 	Thread Count: 32
+labn18: 	Characteristics:
+labn18: 		64-bit capable
+labn18: 		Multi-Core
+labn18: 		Hardware Thread
+labn18: 		Execute Protection
+labn18: 		Enhanced Virtualization
+labn18: 		Power/Performance Control
+labn18: 
+labn18: Handle 0x0008, DMI type 16, 23 bytes
+labn18: Physical Memory Array
+labn18: 	Location: System Board Or Motherboard
+labn18: 	Use: System Memory
+labn18: 	Error Correction Type: Multi-bit ECC
+labn18: 	Maximum Capacity: 1536 GB
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Number Of Devices: 24
+labn18: 
+labn18: Handle 0x0009, DMI type 19, 31 bytes
+labn18: Memory Array Mapped Address
+labn18: 	Starting Address: 0x00000000000
+labn18: 	Ending Address: 0x07FFFFFFFFF
+labn18: 	Range Size: 512 GB
+labn18: 	Physical Array Handle: 0x0008
+labn18: 	Partition Width: 24
+labn18: 
+labn18: Handle 0x000A, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 1
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EDB
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x000B, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 2
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 35228E5E
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40CB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x000C, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 3
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x000D, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 4
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EDA
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x000E, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 5
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 35228F55
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40CB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x000F, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 6
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x0010, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 7
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x0011, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 8
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 35228F00
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40CB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0012, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 9
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EDD
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0013, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 10
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x0014, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 11
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 3566E55B
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40CB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0015, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 12
+labn18: 	Bank Locator: CPU 1
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EDC
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0016, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 13
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EE1
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0017, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 14
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 3547914F
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40BB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0018, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 15
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x0019, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 16
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680EDF
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x001A, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 17
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 3566E50C
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40CB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x001B, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 18
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x001C, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 19
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x001D, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 20
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 357D043D
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40BB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x001E, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 21
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680DCB
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x001F, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: Unknown
+labn18: 	Data Width: Unknown
+labn18: 	Size: No Module Installed
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 22
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: Unknown
+labn18: 	Manufacturer: NO DIMM
+labn18: 	Serial Number: Unknown
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: Unknown
+labn18: 	Rank: Unknown
+labn18: 	Configured Clock Speed: Unknown
+labn18: 	Minimum Voltage: Unknown
+labn18: 	Maximum Voltage: Unknown
+labn18: 	Configured Voltage: Unknown
+labn18: 
+labn18: Handle 0x0020, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 23
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Samsung
+labn18: 	Serial Number: 357CF95F
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: M393A4K40BB1-CRC  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0021, DMI type 17, 40 bytes
+labn18: Memory Device
+labn18: 	Array Handle: 0x0008
+labn18: 	Error Information Handle: Not Provided
+labn18: 	Total Width: 72 bits
+labn18: 	Data Width: 64 bits
+labn18: 	Size: 32 GB
+labn18: 	Form Factor: DIMM
+labn18: 	Set: None
+labn18: 	Locator: Dimm 24
+labn18: 	Bank Locator: CPU 2
+labn18: 	Type: DDR4
+labn18: 	Type Detail: Synchronous
+labn18: 	Speed: 2400 MHz
+labn18: 	Manufacturer: Hynix
+labn18: 	Serial Number: 29680DAD
+labn18: 	Asset Tag: Unknown
+labn18: 	Part Number: HMA84GR7MFR4N-UH  
+labn18: 	Rank: 2
+labn18: 	Configured Clock Speed: 2400 MHz
+labn18: 	Minimum Voltage: 1.2 V
+labn18: 	Maximum Voltage: 1.2 V
+labn18: 	Configured Voltage: 1.2 V
+labn18: 
+labn18: Handle 0x0022, DMI type 0, 24 bytes
+labn18: BIOS Information
+labn18: 	Vendor: LENOVO
+labn18: 	Version: -[TCE130J-2.40]-
+labn18: 	Release Date: 04/11/2017
+labn18: 	Address: 0xF0000
+labn18: 	Runtime Size: 64 kB
+labn18: 	ROM Size: 16384 kB
+labn18: 	Characteristics:
+labn18: 		PCI is supported
+labn18: 		PNP is supported
+labn18: 		BIOS is upgradeable
+labn18: 		BIOS shadowing is allowed
+labn18: 		Boot from CD is supported
+labn18: 		Selectable boot is supported
+labn18: 		EDD is supported
+labn18: 		5.25"/1.2 MB floppy services are supported (int 13h)
+labn18: 		3.5"/720 kB floppy services are supported (int 13h)
+labn18: 		3.5"/2.88 MB floppy services are supported (int 13h)
+labn18: 		Print screen service is supported (int 5h)
+labn18: 		8042 keyboard services are supported (int 9h)
+labn18: 		Serial services are supported (int 14h)
+labn18: 		Printer services are supported (int 17h)
+labn18: 		CGA/mono video services are supported (int 10h)
+labn18: 		ACPI is supported
+labn18: 		USB legacy is supported
+labn18: 		LS-120 boot is supported
+labn18: 		ATAPI Zip drive boot is supported
+labn18: 		Function key-initiated network boot is supported
+labn18: 		Targeted content distribution is supported
+labn18: 		UEFI is supported
+labn18: 	BIOS Revision: 2.40
+labn18: 	Firmware Revision: 4.15
+labn18: 
+labn18: Handle 0x0023, DMI type 1, 27 bytes
+labn18: System Information
+labn18: 	Manufacturer: LENOVO
+labn18: 	Product Name: System x3650 M5: -[8871AC1]-
+labn18: 	Version: 14
+labn18: 	Serial Number: J11V4Z3
+labn18: 	UUID: 68084D68-ADB1-11E7-8F2A-0894EF4140C0
+labn18: 	Wake-up Type: Power Switch
+labn18: 	SKU Number: (none)
+labn18: 	Family: System X
+labn18: 
+labn18: Handle 0x0024, DMI type 2, 17 bytes
+labn18: Base Board Information
+labn18: 	Manufacturer: LENOVO
+labn18: 	Product Name: 00MX548
+labn18: 	Version: NULL
+labn18: 	Serial Number: 77908A
+labn18: 	Asset Tag: (none)
+labn18: 	Features:
+labn18: 		Board is a hosting board
+labn18: 		Board is replaceable
+labn18: 	Location In Chassis: Rack-mount
+labn18: 	Chassis Handle: 0x0000
+labn18: 	Type: Motherboard
+labn18: 	Contained Object Handles: 0
+labn18: 
+labn18: Handle 0x0025, DMI type 3, 24 bytes
+labn18: Chassis Information
+labn18: 	Manufacturer: LENOVO
+labn18: 	Type: Rack Mount Chassis
+labn18: 	Lock: Not Present
+labn18: 	Version: none
+labn18: 	Serial Number: none
+labn18: 	Asset Tag: none
+labn18: 	Boot-up State: Unknown
+labn18: 	Power Supply State: Safe
+labn18: 	Thermal State: Unknown
+labn18: 	Security Status: Unknown
+labn18: 	OEM Information: 0x00000000
+labn18: 	Height: 1 U
+labn18: 	Number Of Power Cords: 2
+labn18: 	Contained Elements: 0
+labn18: 	SKU Number: Not Specified
+labn18: 
+labn18: Handle 0x0026, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: SATA ODD
+labn18: 	Internal Connector Type: SAS/SATA Plug Receptacle
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: SATA
+labn18: 
+labn18: Handle 0x0027, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: IPASS port 0
+labn18: 	Internal Connector Type: SAS/SATA Plug Receptacle
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: SATA
+labn18: 
+labn18: Handle 0x0028, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: IPASS port 1
+labn18: 	Internal Connector Type: SAS/SATA Plug Receptacle
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: SATA
+labn18: 
+labn18: Handle 0x0029, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: Video port
+labn18: 	Internal Connector Type: DB-15 female
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Video Port
+labn18: 
+labn18: Handle 0x002A, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: COM
+labn18: 	Internal Connector Type: Other
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Serial Port 16550A Compatible
+labn18: 
+labn18: Handle 0x002B, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: None
+labn18: 	Internal Connector Type: None
+labn18: 	External Reference Designator: USB Port 1 Front
+labn18: 	External Connector Type: Access Bus (USB)
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x002C, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: None
+labn18: 	Internal Connector Type: None
+labn18: 	External Reference Designator: USB Port 2 Front
+labn18: 	External Connector Type: Access Bus (USB)
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x002D, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: None
+labn18: 	Internal Connector Type: None
+labn18: 	External Reference Designator: USB Port Clippy
+labn18: 	External Connector Type: Access Bus (USB)
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x002E, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: USB Port Hypervisor
+labn18: 	Internal Connector Type: Access Bus (USB)
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x002F, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: USB Port 1 Rear
+labn18: 	Internal Connector Type: Access Bus (USB)
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x0030, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: USB Port 2 Rear
+labn18: 	Internal Connector Type: Access Bus (USB)
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x0031, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: USB Port 3 Rear
+labn18: 	Internal Connector Type: Access Bus (USB)
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x0032, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: USB Port 4 Rear
+labn18: 	Internal Connector Type: Access Bus (USB)
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: USB
+labn18: 
+labn18: Handle 0x0033, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: Ethernet 1
+labn18: 	Internal Connector Type: RJ-45
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Network Port
+labn18: 
+labn18: Handle 0x0034, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: Ethernet 2
+labn18: 	Internal Connector Type: RJ-45
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Network Port
+labn18: 
+labn18: Handle 0x0035, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: Ethernet 3
+labn18: 	Internal Connector Type: RJ-45
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Network Port
+labn18: 
+labn18: Handle 0x0036, DMI type 8, 9 bytes
+labn18: Port Connector Information
+labn18: 	Internal Reference Designator: Ethernet 4
+labn18: 	Internal Connector Type: RJ-45
+labn18: 	External Reference Designator: None
+labn18: 	External Connector Type: None
+labn18: 	Port Type: Network Port
+labn18: 
+labn18: Handle 0x0037, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 1
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: In Use
+labn18: 	Length: Long
+labn18: 	ID: 1
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:06:00.0
+labn18: 
+labn18: Handle 0x0038, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 2
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: Available
+labn18: 	Length: Long
+labn18: 	ID: 2
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:00:00.0
+labn18: 
+labn18: Handle 0x0039, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 4
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: In Use
+labn18: 	Length: Short
+labn18: 	ID: 4
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:0b:00.0
+labn18: 
+labn18: Handle 0x003A, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 5
+labn18: 	Type: x16 PCI Express 3 x16
+labn18: 	Current Usage: In Use
+labn18: 	Length: Long
+labn18: 	ID: 5
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:86:00.0
+labn18: 
+labn18: Handle 0x003B, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 6
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: In Use
+labn18: 	Length: Long
+labn18: 	ID: 6
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:81:00.0
+labn18: 
+labn18: Handle 0x003C, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 7
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: Available
+labn18: 	Length: Long
+labn18: 	ID: 7
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:00:00.0
+labn18: 
+labn18: Handle 0x003D, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 8
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: Available
+labn18: 	Length: Long
+labn18: 	ID: 8
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:00:00.0
+labn18: 
+labn18: Handle 0x003E, DMI type 9, 17 bytes
+labn18: System Slot Information
+labn18: 	Designation: Slot 9
+labn18: 	Type: x8 PCI Express 3 x8
+labn18: 	Current Usage: In Use
+labn18: 	Length: Short
+labn18: 	ID: 9
+labn18: 	Characteristics:
+labn18: 		3.3 V is provided
+labn18: 	Bus Address: 0000:10:00.0
+labn18: 
+labn18: Handle 0x003F, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: LENOVO SystemX
+labn18: 
+labn18: Handle 0x0040, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $SI Integrated BaseBoard Mgmt Cont 4.15 -[TCOO32I]-
+labn18: 
+labn18: Handle 0x0041, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $CR CRTM Primary Code 2.40 -[TCE130J]-
+labn18: 
+labn18: Handle 0x0042, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $CB CRTM Backup Code 2.40 -[TCE130J]-
+labn18: 
+labn18: Handle 0x0043, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $DS Preboot Diagnostics (DSA) 10.2 -[DSALA8S   ]-
+labn18: 
+labn18: Handle 0x0044, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $MV Min UEFI Version -[TCE121AUS-2.00]-
+labn18: 
+labn18: Handle 0x0045, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $BB UEFI Backup Version -[TCE130J-2.40]-
+labn18: 
+labn18: Handle 0x0046, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $QP QPI Version -[04.01]-
+labn18: 
+labn18: Handle 0x0047, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $MR MRC Version -[04.01]-
+labn18: 
+labn18: Handle 0x0048, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $CS CSM Version -[TESTBLDUS]- 
+labn18: 
+labn18: Handle 0x0049, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $ME ME Firmware Version -[3.1.3.38]-
+labn18: 
+labn18: Handle 0x004A, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $BD -[]-
+labn18: 
+labn18: Handle 0x004B, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $CF Current UEFI Flash Bank - Primary
+labn18: 
+labn18: Handle 0x004C, DMI type 11, 5 bytes
+labn18: OEM Strings
+labn18: 	String 1: $BP UEFI Primary Version -[TCE130J-2.40]-
+labn18: 
+labn18: Handle 0x004D, DMI type 12, 5 bytes
+labn18: System Configuration Options
+labn18: 	Option 1: J7 pin1-2: TPM PP Disable, pin2-3: TPM PP Enable
+labn18: 
+labn18: Handle 0x004E, DMI type 13, 22 bytes
+labn18: BIOS Language Information
+labn18: 	Language Description Format: Abbreviated
+labn18: 	Installable Languages: 1
+labn18: 		enUS
+labn18: 	Currently Installed Language: enUS
+labn18: 
+labn18: Handle 0x004F, DMI type 32, 11 bytes
+labn18: System Boot Information
+labn18: 	Status: No errors detected
+labn18: 
+labn18: Handle 0x0050, DMI type 38, 18 bytes
+labn18: IPMI Device Information
+labn18: 	Interface Type: KCS (Keyboard Control Style)
+labn18: 	Specification Version: 2.0
+labn18: 	I2C Slave Address: 0x10
+labn18: 	NV Storage Device: Not Present
+labn18: 	Base Address: 0x0000000000000CC0 (I/O)
+labn18: 	Register Spacing: Successive Byte Boundaries
+labn18: 
+labn18: Handle 0x0051, DMI type 41, 11 bytes
+labn18: Onboard Device
+labn18: 	Reference Designation: Ethernet 1
+labn18: 	Type: Ethernet
+labn18: 	Status: Enabled
+labn18: 	Type Instance: 1
+labn18: 	Bus Address: 0000:1b:00.0
+labn18: 
+labn18: Handle 0x0052, DMI type 41, 11 bytes
+labn18: Onboard Device
+labn18: 	Reference Designation: Ethernet 2
+labn18: 	Type: Ethernet
+labn18: 	Status: Enabled
+labn18: 	Type Instance: 2
+labn18: 	Bus Address: 0000:1b:00.1
+labn18: 
+labn18: Handle 0x0053, DMI type 41, 11 bytes
+labn18: Onboard Device
+labn18: 	Reference Designation: Ethernet 3
+labn18: 	Type: Ethernet
+labn18: 	Status: Enabled
+labn18: 	Type Instance: 3
+labn18: 	Bus Address: 0000:1b:00.2
+labn18: 
+labn18: Handle 0x0054, DMI type 41, 11 bytes
+labn18: Onboard Device
+labn18: 	Reference Designation: Ethernet 4
+labn18: 	Type: Ethernet
+labn18: 	Status: Enabled
+labn18: 	Type Instance: 4
+labn18: 	Bus Address: 0000:1b:00.3
+labn18: 
+labn18: Handle 0x0055, DMI type 41, 11 bytes
+labn18: Onboard Device
+labn18: 	Reference Designation: Video
+labn18: 	Type: Video
+labn18: 	Status: Enabled
+labn18: 	Type Instance: 1
+labn18: 	Bus Address: 0000:19:00.0
+labn18: 
+labn18: Handle 0xFEFF, DMI type 127, 4 bytes
+labn18: End Of Table
+labn18: 

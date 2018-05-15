@@ -1,0 +1,122 @@
+var = [['Abdellah Maarouf', 'HP Laptop', 5CD7012GcQ/CNU251BG78, SHI16410/SHI8053, None'], 
+['Abdul Kargbo, None, DM767A, None, None'], 
+['Ali Alloo, HP Tablet, None, SHI13064, None'], 
+['Ana Castillo, Apple iPad/Keboard/Pencil, None, DMPTF3SNGXPX,FTPTL5WNH6Q8,C4MTDP5ZGWTJ'], 
+['Andrew Racz, HP Laptop, None, SHI16679, None'], 
+['Andy Perez, Apple iPad/Keboard/Pencil, None, DMPTF2YVGXPX,FTPTLAK7H6Q8,FQFTD4CRGWTJ'], 
+['Brian Covela, Lenovo Laptop, R9PMP8W, None, None'], 
+['Bryan O'Neill, MacBook Pro/Bluetooth Headset/Zumo 390LM,'],  ['DMP5R35AGXPX/C02MC1W1FD59/Q334301602/38J001278, SHI11203/None/None, None'], 
+['Carl Anderson, HP Laptop,None,SHI11158,None'], 
+['Carolyne Eustice, HP Laptop, None, SHI12695, None'], 
+['Chris Sabella, HP Laptop,None,SHI10835,None'], 
+['Chris Sullo, HP Laptop, None, SHI13012, None'], 
+['Chris Lopez, HP Laptop, 5CD7164PGX, SHI16866, None'], 
+['Christie Anderson, HP Laptop, None, SHI13970, None'], 
+['Curtis Booker, iPad Mini 4, F9FQXIEQGHMH, None, None'], 
+['Damian Latourette, HP Laptop & Mouse, None, SHI9892, None'], 
+['Daniel Carreira, Samsung Tablet, RF2G704W7RR, None, None'], 
+['Daniel Mercado, iPad/Keboard/Pencil, DMPTF1BHGXPX,FTPTM1P3H6Q8,C4MTDE79GWTJ, None'], 
+['David Gerson, HP Laptop, None, SHI16257, None'], 
+['Dora Rodriguez, None, 5CG51900DP, SHI13035, None'], 
+['Edward Nunez, HP Laptop & USB C Cable, None, SHI16411, None'], 
+['Erin McCaskill, Apple iPad, None, F9FV18G4HLJJ, None'], 
+['Eric Penderson, HP Laptop, None, SHI10102, None'], 
+['Eric Severence, Toshiba Laptop, None, 7F114811H, None'], 
+['Emee Tupino, Apple iPad/Keboard/Pencil, None, DMPTD676GXPX,FTPTL8RYH6Q8,FQFTD4HCGWTJ'], 
+['Faisal Mohammad, HP Laptop, None, SHI16680, None'], 
+['Felipa Cousens, HP Laptop, None, SHI2867, None'], 
+['Hank Tullis, None, None, US2187817, None'], 
+['Hector Rivera, HP Laptop & Charger, None, SHI13179, None'], 
+['Hunn Ching Liao, HP Laptop, None, SHI122878, None'], 
+['James Dodge, HP Laptop, None, SHI10226, None'], 
+['Jason Folmar, Honeywell CT50, Panasonic FZ-1, None, None'], 
+['John Giftus, IPAD, DMPQMBE8GEWQ, None, None'], 
+['John Popovich Dell Laptop, 7E10547OH, None, None'], 
+['Jordan Hriniak, HP Laptop, 5CD7164PG3, SHI16683, None'], 
+['Jose Lopez, Charger for watch, None, None, None'], 
+['Josue Cardona, JBL Speaker/Alienware Laptop, TL0284HG/DFYH362, None, None'], 
+['Justin Rindler, HP Laptop, SCD7164PPO, None, None'], 
+['Keith K, HP Laptop, None, SHI12722, None'], 
+['Keith Walker, HP Laptop, None, SHI11174, None'], 
+['Kendell Lucas, Laptop/iPad/Kindle Fire, 8GCFN72/DLXNN9T6G5Y3/GOKOH404616200F1, None, None'], 
+['Kenny Hutchinson,  HP Laptop, None, SHI16409, None'], 
+['Kristy Talorico, HP Laptop, None, SHI9810, None'], 
+['Lee Seaman, Toshiba Laptop, 8G165723H, None, None'], 
+['Mark Van Kleef, HP Laptop, None, SHI16272, None'], 
+['Michael Scott, HP Laptop, None, SHI16170, None'], 
+['Michael Pepe, HP Laptop, None, SHI16682, None'], 
+['Mike Finley, Dell, 7F04313H, None, None'], 
+['Mike Milano, Toshiba Laptop, None, HC50G12/3QTD4Q1, None'], 
+['Mudit Bhatt, HP Laptop, 5CD7164PH2, SHI16676, None'], 
+['Nicole Dejesus, HP Laptop, None, SHI14114, None'], 
+['Nicholas Prociuk, HP Laptop, None, SHI12589, None'], 
+['Nihad Issa, iPad, None, CONFIG-1112, None'], 
+['Oscar Vartanian, HP Laptop, None, SHI131628, None'], 
+['Paul Brew, Toshiba Laptop, 7F052102H, None, None'], 
+['Paul Coffey, HP Laptop, None, SHI13805, None'], 
+['Peter Zhu, HP Laptop, None, SHI18414, None'], 
+['Rhina Cardona, JBL Speaker/Alienware Laptop, TLO284/DFYH362, None, None'], 
+['Rick Karp, HP Laptop, None, SHI13847, None'], 
+['Rob Harrison, HP Laptop, cables, None, SHI8646'], 
+['Rohan Grandeson, Apple MacBook, Powercord, CO2HM9XFDTY3, None'], 
+['Ryan Bowen,  HP Laptop, SHI16872, None, None'], 
+['Ryan Espiritu, Boss Speaker, 064714952641494A3, None, None'], 
+['Scott Lane, Toshiba/Dell, 7E064848H, None, None'], 
+['Sean Larson, ASETT, 516320, None, None'], 
+['Shawn Sabino, HP Laptop, SCD7155ZC1, SHI16632 , None'], 
+['Steve Alt, HP Laptop, None, SHI14000, None'], 
+['Terence Mallory, HP Laptop, 5CD7012GCM, SHI16412, None'], 
+['Thomas O. Dell, 2 TB Harddrive, None, None, None'], 
+['Tishonda Carson, Lenovo Laptop, WKSP000420E2TC, None, None'], 
+['Tom Mililli, HP Laptop, None, SHI10092, None'], 
+['William Morris, Lenovo Laptop, 9 USB, PK07ER1, None'], 
+['Yomi Idris, HP Laptop, None, SHI, None'], 
+['Yurity Stus, None, 584048-001, None, None'], 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

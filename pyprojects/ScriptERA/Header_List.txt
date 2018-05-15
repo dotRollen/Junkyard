@@ -1,0 +1,22 @@
+Site
+Prime
+MFG
+Model
+Serial Number 
+Asset Tag 
+Hostname 
+PO 
+Contact 
+Location 
+Carrier 
+Tracking Number 
+Order In Rack(1 is bottom) 
+MAC1 
+MAC2 
+MAC3 
+MAC4 
+WWN1 
+WWN2 
+WWN3 
+WWN4 
+Switch MACS
